@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5285
+
+Babel shows how the current file or a snippet of Javascript will be transformed by babel-cli.
+
+  https://github.com/jbgutierrez/vim-babel
+
